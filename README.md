@@ -1,5 +1,5 @@
 # Azure Security Data Lake
-[Skip to deployment](#Deployment)
+[Skip to deployment](#Deployment)   
 
 [YouTube Demo](https://youtu.be/iWL71yyAbAs)
 
